@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TestREDMADROBOT</string>
+    <string name="action_settings">Settings</string>
+    <string name="get_collage">Давай коллаж</string>
+    <string name="nik_hint">Ник пользователя из Instagram</string>
+    <string name="nik_tag">NIK</string>
+    <string name="title_activity_photos">Photos</string>
+    <string name="CLIENT_ID">6ffbb6961da44f6f85232dfd64137de8</string>
+    <string name="no_find_photos">Фотографий не найдено.</string>
+    <string name="no_find_user">Пользователь не найден.</string>
+    <string name="btn_generate_collage">Выбрать</string>
+    <string name="no_select_photo">Не выделено фотографий!</string>
+    <string name="title_activity_activity_collage">ActivityCollage</string>
+    <string name="btnSend">Отправить</string>
+    <string name="edEmail">Email</string>
+    <string name="dialog_warning">Внимание</string>
+    <string name="dialog_text_no_email">Не введен email!</string>
+    <string name="dialog_text_error_send">Не удается отправить email!</string>
+    <string name="OK">OK</string>
+
+</resources>

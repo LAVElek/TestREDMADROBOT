@@ -1,0 +1,8 @@
+<resources>
+
+    <!-- для андроид 4+ тема Holo Dark -->
+    <style name="AppTheme" parent="android:Theme.Holo">
+        <!-- Customize your theme here. -->
+    </style>
+
+</resources>
